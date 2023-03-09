@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JusttOdosa
+- 👋 Hi, I’m Praise Odosa Eghaghe
 - 👀 I’m a Data Analyst
-- 🌱 I’m currently looking out for Job Opportunities
+- 🌱 I’m currently looking out for Internships and Job Opportunities
 - 💞️ I’m looking to collaborate on Projects involving Data cleaning, analysis and visualization.
 - 📫 How to reach me https://twitter.com/OdosaYo
 - 
